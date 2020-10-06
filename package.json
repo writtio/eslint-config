@@ -1,0 +1,19 @@
+{
+  "name": "@writtio/eslint-config",
+  "version": "1.0.0",
+  "description": "The official Writtio ESLint configuration",
+  "author": "Writtio, Inc.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writtio/eslint-config.git"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=4",
+    "eslint": ">=7"
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^4.2.0",
+    "typescript": "^4.0.3"
+  },
+  "license": "UNLICENSED"
+}
